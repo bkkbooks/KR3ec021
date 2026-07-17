@@ -189,6 +189,7 @@ markers:
   - {type: xml-element, offset: 1165, content: '', id: KR3ec021_jc_027-d34.d2.d2.d4p2, name: p, role: open, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d4p2}}
   - {type: 'tls:seg', offset: 1165, content: '', id: KR3ec021_jc_027-d34.d2.d2.d4.p2s1}
   - {type: punctuation, offset: 1165, content: (, id: KR3ec021_jc_028-bkkpn129}
+  - {type: voice, offset: 1165, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1167, content: ), id: KR3ec021_jc_028-bkkpn130}
   - {type: xml-element, offset: 1167, content: '', id: KR3ec021_jc_027-d34.d2.d2.d4p2_end, name: p, role: close, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d4p2}}
   - {type: xml-element, offset: 1167, content: '', id: KR3ec021_jc_027-d34.d2.d2.d4p4, name: p, role: open, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d4p4}}
@@ -288,6 +289,7 @@ markers:
   - {type: xml-element, offset: 1713, content: '', id: KR3ec021_jc_027-d34.d2.d2.d5p2, name: p, role: open, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d5p2}}
   - {type: 'tls:seg', offset: 1713, content: '', id: KR3ec021_jc_027-d34.d2.d2.d5.p2s1}
   - {type: punctuation, offset: 1713, content: (, id: KR3ec021_jc_028-bkkpn192}
+  - {type: voice, offset: 1713, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1715, content: ), id: KR3ec021_jc_028-bkkpn193}
   - {type: xml-element, offset: 1715, content: '', id: KR3ec021_jc_027-d34.d2.d2.d5p2_end, name: p, role: close, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d5p2}}
   - {type: xml-element, offset: 1715, content: '', id: KR3ec021_jc_027-d34.d2.d2.d5p4, name: p, role: open, attrs: {'xml:id': KR3ec021_jc_027-d34.d2.d2.d5p4}}
@@ -514,4 +516,4 @@ markers:
   - {type: 'tls:seg', offset: 3099, content: '', id: KR3ec021_jc_027-d34.d3.p2s7}
   - {type: xml-element, offset: 3168, content: '', id: KR3ec021_jc_027-d34.d3p2_end, name: p, role: close, attrs: {'xml:id': KR3ec021_jc_027-d34.d3p2}}
   back: []
-hash: sha256:db7f925e5c99738c4b974bfda9ec8a758b52c8d23fd35061c9479d259a9d5b89
+hash: sha256:e86688ce2930e628b219bb4eeff367cfb2ee07827ac9042a7a35f8d90f8c3a30
